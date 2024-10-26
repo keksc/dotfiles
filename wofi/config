@@ -1,0 +1,7 @@
+allow_images=true
+insensitive=true
+location=center
+width=300px
+height=200px
+border-width=0
+show=drun
